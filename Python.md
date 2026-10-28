@@ -1,6 +1,6 @@
-#Libraries Learned To Use
+# Libraries Learned To Use
 -Tkinter
 ## Takeaway
 -Very cool
 -Learned a lot of new tools
-- Made a mock school dashboard or portal
+-Made a mock school dashboard or portal
